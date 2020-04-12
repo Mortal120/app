@@ -1,0 +1,20 @@
+
+.my-add-path.data-v-c20d6e54{
+	margin-left:10rpx;
+}
+.add-item.data-v-c20d6e54{
+	border-bottom: solid #CCCCCC 2rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20rpx 0;
+}
+.add-name-title.data-v-c20d6e54{
+	margin-right: 10rpx;
+}
+.add-name.data-v-c20d6e54{
+	font-weight: bold;
+}
+
+

@@ -1,0 +1,26 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "请输入要搜索的内容",
+      "backgroundColor": "#F7F7F7",
+      "placeholderColor": "#B3B3B3",
+      "align": "left",
+      "borderRadius": "15px",
+      "disabled": true
+    },
+    "buttons": [
+      {
+        "float": "right",
+        "text": "筛选",
+        "fontSize": "16px",
+        "width": "60px",
+        "color": "#636263"
+      }
+    ]
+  },
+  "usingComponents": {
+    "shop-list": "/components/comment/ShopList"
+  }
+}

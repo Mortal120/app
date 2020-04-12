@@ -1,0 +1,20 @@
+{
+  "scrollIndicator": "none",
+  "navigationBarTitleText": "商品详情",
+  "titleNView": {
+    "type": "transparent",
+    "buttons": [
+      {
+        "type": "menu"
+      },
+      {
+        "type": "share"
+      }
+    ]
+  },
+  "usingComponents": {
+    "card": "/components/comment/Card",
+    "commodity-list": "/components/comment/CommodityList",
+    "box-num": "/components/components/uni-number-box/uni-number-box"
+  }
+}

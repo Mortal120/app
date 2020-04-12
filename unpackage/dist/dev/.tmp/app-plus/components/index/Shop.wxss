@@ -1,0 +1,15 @@
+
+.shop-img.data-v-fec22e50{
+	width:100%;
+	height: 350rpx;
+}
+.scroll-content.data-v-fec22e50{
+	width:100%;
+	white-space: nowrap;
+}
+/* .scroll-item{
+	display:inline-block;
+	width: 300rpx;
+	height: 300rpx;
+} */
+

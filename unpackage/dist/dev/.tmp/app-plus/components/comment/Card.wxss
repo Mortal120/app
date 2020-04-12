@@ -1,0 +1,19 @@
+
+.card.data-v-54eae5c5{
+	 display: -webkit-box;
+	 display: -webkit-flex;
+	 display: -ms-flexbox;
+	 display: flex;
+	 font-size: 32rpx;
+	 -webkit-box-pack: center;
+	 -webkit-justify-content: center;
+	     -ms-flex-pack: center;
+	         justify-content: center;
+	 font-weight: bold;
+	 margin-top: 20rpx;
+}
+.cardName.data-v-54eae5c5{
+	margin: 0 20rpx;
+}
+
+

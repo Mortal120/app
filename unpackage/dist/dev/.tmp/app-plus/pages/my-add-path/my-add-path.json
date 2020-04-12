@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "添加地址",
+  "titleNView": {
+    "buttons": [
+      {
+        "float": "right",
+        "text": "保存",
+        "fontSize": "30rpx"
+      }
+    ]
+  },
+  "usingComponents": {
+    "mpvue-city-picker": "/components/components/mpvue-citypicker/mpvueCityPicker"
+  }
+}

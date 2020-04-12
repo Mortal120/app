@@ -1,0 +1,8 @@
+{
+  "titleNView": false,
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "uni-nav-bar": "/components/components/uni-nav-bar/uni-nav-bar",
+    "uni-number-box": "/components/components/uni-number-box/uni-number-box"
+  }
+}

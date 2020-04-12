@@ -1,0 +1,29 @@
+{
+  "navigationBarTitleText": "爺的黑店",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "float": "left",
+        "fontSrc": "./static/iconfont.ttf",
+        "text": ""
+      },
+      {
+        "float": "right",
+        "fontSrc": "./static/iconfont.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {
+    "index-swiper": "/components/index/indexSwiper",
+    "recommend": "/components/index/Recommend",
+    "card": "/components/comment/Card",
+    "commodity-list": "/components/comment/CommodityList",
+    "banner": "/components/index/Banner",
+    "icons": "/components/index/Icons",
+    "hot": "/components/index/Hot",
+    "shop": "/components/index/Shop"
+  }
+}

@@ -1,0 +1,42 @@
+
+.wx-nav.data-v-5437dc96{
+	line-height: 200rpx;
+	height:200rpx;
+	width:100%;
+	text-align: center;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-align-content: center;
+	    -ms-flex-line-pack: center;
+	        align-content: center;
+}
+.scroll-content.data-v-5437dc96{
+	width:100%;
+	height: 80rpx;
+	white-space: nowrap;
+}
+.scroll-item.data-v-5437dc96{
+	display: inline-block;
+	padding:4rpx 20rpx;
+	font-size: 36rpx;
+	font-weight: bold;
+}
+.f-active-color.data-v-5437dc96{
+	padding: 2rpx 0;
+	border-bottom: solid 4rpx #49BDFB;
+}
+.push.data-v-5437dc96{
+	border-top: 8rpx solid #3F536E;
+	text-align: center;
+	font-size: 30rpx;
+	padding-top:20rpx;
+}
+
+
+

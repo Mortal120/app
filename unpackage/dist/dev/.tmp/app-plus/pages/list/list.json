@@ -1,0 +1,18 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "scrollIndicator": "none",
+  "titleNView": {
+    "searchInput": {
+      "autoFocus": false,
+      "placeholder": "请输入关键字",
+      "backgroundColor": "#F7F7F7",
+      "placeholderColor": "#B3B3B3",
+      "align": "left",
+      "borderRadius": "15px",
+      "disabled": true
+    }
+  },
+  "usingComponents": {
+    "lines": "/components/comment/Lines"
+  }
+}

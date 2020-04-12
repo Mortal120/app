@@ -1,0 +1,49 @@
+
+.config.data-v-99544aa0{
+	margin-left: 20rpx;
+}
+.account-config.data-v-99544aa0{
+	border-bottom: solid  2rpx #636263;
+	padding: 20rpx;
+	font-size: 0.8em;
+}
+.config-content.data-v-99544aa0{
+	padding-right: 20rpx;
+}
+.config-item.data-v-99544aa0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 20rpx 0;
+	border-bottom: solid 2rpx  #CCCCCC;
+}
+.config-main.data-v-99544aa0{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.config-name.data-v-99544aa0{
+	font-weight: bold;
+}
+.config-avator.data-v-99544aa0{
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+	margin-right: 20rpx;
+	border: solid #CCCCCC 2rpx;
+}
+.config-icon.data-v-99544aa0{
+	color: #CCCCCC;
+}
+
+

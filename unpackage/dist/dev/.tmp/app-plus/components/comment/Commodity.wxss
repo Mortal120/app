@@ -1,0 +1,40 @@
+
+.commodity.data-v-5a343548{
+	margin-top: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.commodity-item.data-v-5a343548{
+	padding-bottom:20rpx;
+}
+.commodity-image.data-v-5a343548{
+	width:100%;
+}
+.commodity-content.data-v-5a343548{
+	text-align: center;
+}
+.commodity-name.data-v-5a343548{
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+	overflow: hidden;
+	display:-webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	word-break: break-all;
+	padding: 6rpx 20rpx;
+	color: #333333;
+}
+.oprice.data-v-5a343548{
+	text-decoration: line-through;
+	color: #99999;
+}
+.discount.data-v-5a343548{
+	border-radius: 5rpx;
+	border: solid 1px #FF3333;
+	padding:2rpx 10rpx;
+	font-size: 20rpx;
+	color: #FF3333;
+}
+

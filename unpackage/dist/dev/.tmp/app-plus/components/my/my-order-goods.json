@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "lines": "/components/comment/Lines"
+  },
+  "component": true
+}

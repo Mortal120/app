@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "usingComponents": {
+    "lines": "/components/comment/Lines",
+    "goods": "/components/my/my-order-goods"
+  }
+}
